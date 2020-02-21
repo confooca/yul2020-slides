@@ -3,7 +3,7 @@
     155 presentations by popular international speakers.
     Focused on pragmatic solutions for developers.
     Great content and amazing experience.
-    
+
 Below you will find the slides of most presentations given at ConFoo for this edition.
 
 
@@ -11,13 +11,13 @@ Below you will find the slides of most presentations given at ConFoo for this ed
 
 | Presentation Title | Speaker Name  |
 |---------------------|---------------|
-
+| [Building an audio recognition API](presentations/sounds.pdf) | Soheel Chughtai |
 
 # February 27
 
 | Presentation Title | Speaker Name  |
 |---------------------|---------------|
-
+| [Rapid Prototyping of AI powered applications with Node-RED](presentations/node-red.pdf) | Soheel Chughtai |
 
 # February 28
 
