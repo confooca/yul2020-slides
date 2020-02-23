@@ -6,13 +6,13 @@ We're really grateful for your presentation at ConFoo 2020. Please use this guid
 
 ## TL;DR
 
-1. Slides: `presentation_name-author-name.pdf`
+1. Slides: `presentation_name-author-name.pdf`.
 
-2. Demos: `presentation_name-author_name.zip`
+2. Demos: `presentation_name-author_name.zip` or a GitHub/GitLab/BitBucket/etc link.
 
 3. Place in folder matching date of presentation.
 
-4. Update README.md to include links
+4. Update README.md to include links.
 
 5. PR the changes into this repository.
 
@@ -29,7 +29,7 @@ We're really grateful for your presentation at ConFoo 2020. Please use this guid
 
    Slides: `presentation_name-author-name.pdf`  Please create a pdf version of your slides. In the rare case your slides can't be made into a PDF, you can include a link to the slides instead.
 
-   Demos: `presentation_name-author_name.zip`  Please create a zip file of your code samples if any.
+   Demos: `presentation_name-author_name.zip`  Please link to GitHub, GitLab, BitBucket, or a location for your source code. If your source code doesn't live online, please create a zip file of your code samples.
 
    For example, Yann Larrivee is giving a presentation titled "Our Amazing Presenters" to be delivered on Feb 31.  He has slides but no demos.  So his presentation file will be `our_amazing_presenters-yann_larrivee.pdf` and be placed in the `2020-02-31` folder.
 
