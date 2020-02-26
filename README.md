@@ -16,7 +16,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building an audio recognition API](https://confoo.ca/en/yul2020/session/building-an-audio-recognition-api) | Soheel Chughtai | [Slides](2020-02-26/building_an_audio_recognition_api-soheel_chughtai.pdf) |
 | [Empowering teams using mission command](https://confoo.ca/en/yul2020/session/empowering-teams-using-mission-command) | Michiel Rook | [Slides](2020-02-26/empowering_teams_using_mission_command-michiel_rook.pdf) |
 | [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
-| [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps_Bringing_Ops_to_ML.pdf) |
+| [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps - Bringing Ops to ML.pdf) |
 
 # February 27
 
