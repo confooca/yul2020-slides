@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation | Speaker Name  | Content |
 |--------------|---------------|---------|
 | [Building an audio recognition API](https://confoo.ca/en/yul2020/session/building-an-audio-recognition-api) | Soheel Chughtai | [Slides](2020-02-26/building_an_audio_recognition_api-soheel_chughtai.pdf) |
+| [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
 
 # February 27
 
@@ -25,3 +26,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| [What is going on? Application diagnostics with Azure](https://confoo.ca/en/yul2020/session/what-is-going-on-application-diagnostics-with-azure) | Maarten Balliauw | [Slides](2020-02-28/what_is_going_on_application_diagnostics_on_azure-maarten-balliauw.pdf) |
