@@ -26,6 +26,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf)
 | [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core)
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf)
+| [Functional TypeScript](https://confoo.ca/en/yul2020/session/functional-typescript) | [Zac Delventhal](https://twitter.com/delventhalz) | [Slides](https://docs.google.com/presentation/d/1Vu789n9lCW06DProhAud0vdqCJbaS-W1TjTjaMuvnDg) [Repo](https://github.com/delventhalz/functional-typescript)
 
 # February 28
 
@@ -33,3 +34,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | [What is going on? Application diagnostics with Azure](https://confoo.ca/en/yul2020/session/what-is-going-on-application-diagnostics-with-azure) | Maarten Balliauw | [Slides](2020-02-28/what_is_going_on_application_diagnostics_on_azure-maarten-balliauw.pdf) |
 | [First Rule of ARIA: Don't Use ARIA](https://confoo.ca/en/yul2020/session/first-rule-of-aria-don-t-use-aria) | Ashleigh Lodge | [Slides](2020-02-28/first_rule_of_aria_dont_use_aria-ashleigh-lodge.pdf)
+| [An Engineer's Guide to Blockchain App Development](https://confoo.ca/en/yul2020/session/an-engineer-s-guide-to-blockchain-app-development) | [Zac Delventhal](https://twitter.com/delventhalz) | [Slides](https://docs.google.com/presentation/d/1Wq71_7Nw0W2CcXK_Nq4mruSwtEHLwU3i8XJ3x4ASzAA) [Repo](https://github.com/delventhalz/pirate-talk)
