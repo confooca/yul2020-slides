@@ -25,9 +25,11 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf)
 | [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core)
+| [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf)
 
 # February 28
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | [What is going on? Application diagnostics with Azure](https://confoo.ca/en/yul2020/session/what-is-going-on-application-diagnostics-with-azure) | Maarten Balliauw | [Slides](2020-02-28/what_is_going_on_application_diagnostics_on_azure-maarten-balliauw.pdf) |
+| [First Rule of ARIA: Don't Use ARIA](https://confoo.ca/en/yul2020/session/first-rule-of-aria-don-t-use-aria) | Ashleigh Lodge | [Slides](2020-02-28/first_rule_of_aria_dont_use_aria-ashleigh-lodge.pdf)
