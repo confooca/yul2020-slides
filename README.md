@@ -18,14 +18,17 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
 | [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps - Bringing Ops to ML.pdf) |
 | [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) | [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo)
+| [End-to-End Portable Microservices with Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/end-to-end-portable-microservices) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/End_to_end_Microservices-Ivar_Grimstad.pdf) | [Code](https://github.com/ivargrimstad/dukes-local-greeting) |
+
 
 # February 27
 
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
+| Presentation Title | Speaker Name  | Content | Demo |
+|--------------------|---------------|---------|------|
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf)
 | [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core)
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf)
+| [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) | [Code](https://github.com/ivargrimstad) |
 
 # February 28
 
