@@ -24,6 +24,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf)
+| [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core)
 
 # February 28
 
