@@ -36,3 +36,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | [What is going on? Application diagnostics with Azure](https://confoo.ca/en/yul2020/session/what-is-going-on-application-diagnostics-with-azure) | Maarten Balliauw | [Slides](2020-02-28/what_is_going_on_application_diagnostics_on_azure-maarten-balliauw.pdf) |
 | [First Rule of ARIA: Don't Use ARIA](https://confoo.ca/en/yul2020/session/first-rule-of-aria-don-t-use-aria) | Ashleigh Lodge | [Slides](2020-02-28/first_rule_of_aria_dont_use_aria-ashleigh-lodge.pdf)
+| [Turbocharged: Writing High-Performance C# and .NET Code](https://confoo.ca/en/yul2020/session/turbocharged-writing-high-performance-c-and-net-code) | Steve Gordon | [Slides](2020-02-28/turbocharged_writing_high_performance_csharp_and_dotnet-steve-gordon.pdf) / [Resources](http://bit.ly/highperfdotnet)
