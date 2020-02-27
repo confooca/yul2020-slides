@@ -11,11 +11,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 # February 26
 
-| Presentation | Speaker Name  | Content |
-|--------------|---------------|---------|
+| Presentation | Speaker Name  | Content | Demo |
+|--------------|---------------|---------| ---- |
 | [Building an audio recognition API](https://confoo.ca/en/yul2020/session/building-an-audio-recognition-api) | Soheel Chughtai | [Slides](2020-02-26/building_an_audio_recognition_api-soheel_chughtai.pdf) |
 | [Empowering teams using mission command](https://confoo.ca/en/yul2020/session/empowering-teams-using-mission-command) | Michiel Rook | [Slides](2020-02-26/empowering_teams_using_mission_command-michiel_rook.pdf) |
 | [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
+| [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) | [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo)
 
 # February 27
 
