@@ -19,7 +19,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps - Bringing Ops to ML.pdf) |
 | [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) | [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo)
 | [From Zero to Hero with Spring Boot](https://confoo.ca/en/yul2020/session/from-zero-to-hero-with-spring-boot) | Stéphane Nicoll |  | [Code](https://github.com/snicoll/spring-boot-intro-conference)
-| [The Why and the How of Moving to PHP 7](https://confoo.ca/en/yul2020/session/the-why-and-the-how-of-moving-to-7-x) | Wim Godden | [slides] (2020-02-26/The-why-and-how-of-moving-to-PHP-7_Wim-Godden.pdf) |
+| [The Why and the How of Moving to PHP 7](https://confoo.ca/en/yul2020/session/the-why-and-the-how-of-moving-to-7-x) | Wim Godden | [Slides] (2020-02-26/The-why-and-how-of-moving-to-PHP-7_Wim-Godden.pdf) |
 
 
 # February 27
@@ -30,7 +30,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core)
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf)
 | [Real-world Continuous Delivery: Learn, Adapt, Improve](https://confoo.ca/en/yul2020/session/real-world-continuous-delivery-learn-adapt-improve) | Michiel Rook | [Slides](2020-02-27/real_world_cd-michiel_rook.pdf) |
-| [Bringing Bright Ideas To Life](https://confoo.ca/en/yul2020/session/bringing-bright-ideas-to-life) | Wim Godden | [slides](2020-02-27/Bringing-bright-ideas-to-life_Wim-Godden.pdf) |
+| [Bringing Bright Ideas To Life](https://confoo.ca/en/yul2020/session/bringing-bright-ideas-to-life) | Wim Godden | [Slides](2020-02-27/Bringing-bright-ideas-to-life_Wim-Godden.pdf) |
 
 # February 28
 
