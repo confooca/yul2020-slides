@@ -18,6 +18,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
 | [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps - Bringing Ops to ML.pdf) |
 | [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) | [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo)
+| [Protecting yourself against attacks through the build](https://confoo.ca/en/yul2020/session/protecting-yourself-against-attacks-through-the-build) | [Louis Jacomet](https://jacomet.dev/) | [Slides](2020-02-26/protecting_your_organization_against_attacks_via_the_build-louis_jacomet.pdf)
 
 # February 27
 
@@ -26,6 +27,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf)
 | [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core)
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf)
+| [Next generation dependency management with Gradle](https://confoo.ca/en/yul2020/session/next-generation-dependency-management-with-gradle) | [Louis Jacomet](https://jacomet.dev/) | [Slides](https://jacomet.dev/gradle-6-dm-confoo/#/) / [Demo](https://github.com/ljacomet/gradle-6-dm-confoo/tree/master/demos/dm-gradle-6)
 
 # February 28
 
