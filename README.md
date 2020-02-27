@@ -20,7 +20,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) | [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo)
 | [End-to-End Portable Microservices with Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/end-to-end-portable-microservices) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/End_to_end_Microservices-Ivar_Grimstad.pdf) | [Code](https://github.com/ivargrimstad/dukes-local-greeting) |
 
-
 # February 27
 
 | Presentation Title | Speaker Name  | Content | Demo |
