@@ -11,14 +11,15 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 # February 26
 
-| Presentation | Speaker Name  | Content | Demo |
-|--------------|---------------|---------| ---- |
+| Presentation | Speaker Name  | Content |
+|--------------|---------------|---------|
 | [Building an audio recognition API](https://confoo.ca/en/yul2020/session/building-an-audio-recognition-api) | Soheel Chughtai | [Slides](2020-02-26/building_an_audio_recognition_api-soheel_chughtai.pdf) |
 | [Safe Enough: Balancing Usability and Security](https://confoo.ca/en/yul2020/session/safe-enough-balancing-security-and-usability)| Natasha Eibich |[Slides](2020-02-26/safe_enough_balancing_usability_and_security-natasha_eibich.pdf) |
 | [Empowering teams using mission command](https://confoo.ca/en/yul2020/session/empowering-teams-using-mission-command) | Michiel Rook | [Slides](2020-02-26/empowering_teams_using_mission_command-michiel_rook.pdf) |
 | [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
+| [End-to-End Portable Microservices with Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/end-to-end-portable-microservices) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/End_to_end_Microservices-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad/dukes-local-greeting) |
 | [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps%20-%20Bringing%20Ops%20to%20ML.pdf) |
-| [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) | [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo) |
+| [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo) |
 | [Protecting yourself against attacks through the build](https://confoo.ca/en/yul2020/session/protecting-yourself-against-attacks-through-the-build) | [Louis Jacomet](https://jacomet.dev/) | [Slides](2020-02-26/protecting_your_organization_against_attacks_via_the_build-louis_jacomet.pdf)
 | [From Grief to Growth: The 7 Stages of Observability](https://confoo.ca/en/yul2020/session/from-grief-to-growth-the-7-stages-of-observability) | [Alex Gervais](https://twitter.com/alex_gervais) | [Slides](2020-02-26/from_grief_to_growth_the_7_stages_of_observability-alex_gervais.pdf) |
 | [JavaScript: from imperative to functional reactive](https://confoo.ca/en/yul2020/session/javascript-from-imperative-to-functional-reactive) | [Gleb Bahmutov](https://glebbahmutov.com/) | [Slides](https://slides.com/bahmutov/js-from-imperative-to-frp) | |
@@ -46,6 +47,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf) |
 | [Building Deep Neural Networks in .NET](https://confoo.ca/en/yul2020/session/building-deep-neural-networks-in-net) | Alexander Slotte | [Slides](2020-02-27/building_deep_neural_networks_in_dotnet-Alexander_Slotte.pdf) |
 | [It's new, it's shiny, it's... email?](https://confoo.ca/en/yul2020/session/it-s-new-it-s-shiny-it-s-email) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/its-new-its-shiny-its-dot-dot-dot-email) |
+| [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad) |
 
 # February 28
 
