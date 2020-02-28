@@ -48,7 +48,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf) |
 | [Building Deep Neural Networks in .NET](https://confoo.ca/en/yul2020/session/building-deep-neural-networks-in-net) | Alexander Slotte | [Slides](2020-02-27/building_deep_neural_networks_in_dotnet-Alexander_Slotte.pdf) |
 | [It's new, it's shiny, it's... email?](https://confoo.ca/en/yul2020/session/it-s-new-it-s-shiny-it-s-email) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/its-new-its-shiny-its-dot-dot-dot-email) |
-| [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad) |
+| [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-27/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad) |
 
 # February 28
 
