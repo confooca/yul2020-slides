@@ -49,6 +49,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Building Deep Neural Networks in .NET](https://confoo.ca/en/yul2020/session/building-deep-neural-networks-in-net) | Alexander Slotte | [Slides](2020-02-27/building_deep_neural_networks_in_dotnet-Alexander_Slotte.pdf) |
 | [It's new, it's shiny, it's... email?](https://confoo.ca/en/yul2020/session/it-s-new-it-s-shiny-it-s-email) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/its-new-its-shiny-its-dot-dot-dot-email) |
 | [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad) |
+| [PHP on Lambda with Custom Runtimes](https://confoo.ca/en/yul2020/session/php-on-lambda-with-custom-runtimes) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/lambfoo20) [PDF](2020-02-27/lambda_on_php_with_custom_runtimes-ian_littman.pdf) [Code](https://github.com/iansltx/spongebot) |
 
 # February 28
 
@@ -59,3 +60,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [An Engineer's Guide to Blockchain App Development](https://confoo.ca/en/yul2020/session/an-engineer-s-guide-to-blockchain-app-development) | [Zac Delventhal](https://twitter.com/delventhalz) | [Slides](https://docs.google.com/presentation/d/1Wq71_7Nw0W2CcXK_Nq4mruSwtEHLwU3i8XJ3x4ASzAA) [Repo](https://github.com/delventhalz/pirate-talk) |
 | [First Rule of ARIA: Don't Use ARIA](https://confoo.ca/en/yul2020/session/first-rule-of-aria-don-t-use-aria) | Ashleigh Lodge | [Slides](2020-02-28/first_rule_of_aria_dont_use_aria-ashleigh-lodge.pdf) |
 | [Turbocharged: Writing High-Performance C# and .NET Code](https://confoo.ca/en/yul2020/session/turbocharged-writing-high-performance-c-and-net-code) | Steve Gordon | [Slides](2020-02-28/turbocharged_writing_high_performance_csharp_and_dotnet-steve-gordon.pdf) / [Resources](http://bit.ly/highperfdotnet) |
+| [Load Testing Your App](https://confoo.ca/en/yul2020/session/load-testing-your-app) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/loadfoo20) [PDF](2020-02-28/load_testing_your_app-ian_littman.pdf) [Code](https://github.com/iansltx/challengr) |
