@@ -66,3 +66,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Load Testing Your App](https://confoo.ca/en/yul2020/session/load-testing-your-app) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/loadfoo20) [PDF](2020-02-28/load_testing_your_app-ian_littman.pdf) [Code](https://github.com/iansltx/challengr) |
 | [Mock API endpoints for fun and profit](https://confoo.ca/fr/yul2020/session/mock-api-endpoints-for-fun-and-profit) | [Ruy Adorno](https://twitter.com/ruyadorno) | [Slides](2020-02-28/mock-api-endpoints-for-fun-and-profit-ruyadorno.pdf) |
 | [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
+| [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
+
