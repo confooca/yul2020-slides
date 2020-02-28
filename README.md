@@ -27,6 +27,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [From Zero to Hero with Spring Boot](https://confoo.ca/en/yul2020/session/from-zero-to-hero-with-spring-boot) | Stéphane Nicoll |  | [Code](https://github.com/snicoll/spring-boot-intro-conference)
 | [The Why and the How of Moving to PHP 7](https://confoo.ca/en/yul2020/session/the-why-and-the-how-of-moving-to-7-x) | Wim Godden | [Slides](2020-02-26/The-why-and-how-of-moving-to-PHP-7_Wim-Godden.pdf) |
 | [Understanding privacy by design](https://confoo.ca/en/yul2020/session/introducing-privacy-by-design) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/understanding-privacy-by-design-confoo-2020) |
+| [Coding Horrors - A Film Fan's Guide to PHP Coding Nightmares](https://confoo.ca/en/yul2020/session/coding-horrors-a-film-fan-s-guide-to-php-coding-nightmares) | [Mark Baker](https://twitter.com/Mark_Baker) | [Slides](https://www.slideshare.net/MarkBakerUK/coding-horrors-101930192)/[PDF](2020-02-26/CodingHorror.pdf) |
 
 # February 27
 
@@ -64,4 +65,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Turbocharged: Writing High-Performance C# and .NET Code](https://confoo.ca/en/yul2020/session/turbocharged-writing-high-performance-c-and-net-code) | Steve Gordon | [Slides](2020-02-28/turbocharged_writing_high_performance_csharp_and_dotnet-steve-gordon.pdf) / [Resources](http://bit.ly/highperfdotnet) |
 | [Load Testing Your App](https://confoo.ca/en/yul2020/session/load-testing-your-app) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/loadfoo20) [PDF](2020-02-28/load_testing_your_app-ian_littman.pdf) [Code](https://github.com/iansltx/challengr) |
 | [Mock API endpoints for fun and profit](https://confoo.ca/fr/yul2020/session/mock-api-endpoints-for-fun-and-profit) | [Ruy Adorno](https://twitter.com/ruyadorno) | [Slides](2020-02-28/mock-api-endpoints-for-fun-and-profit-ruyadorno.pdf) |
+| [Direct to Production: A Scientist approach with Experiments](https://confoo.ca/en/yul2020/session/direct-to-production-a-scientist-approach-with-experiments) | [Mark Baker](https://twitter.com/Mark_Baker) | [Slides](https://www.slideshare.net/MarkBakerUK/deploying-straight-to-production-229326317)/[PDF](2020-02-28/Deploy to Production - Scientist with Experiments.pdf) |
 
