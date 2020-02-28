@@ -31,6 +31,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf)
 | [Real-world Continuous Delivery: Learn, Adapt, Improve](https://confoo.ca/en/yul2020/session/real-world-continuous-delivery-learn-adapt-improve) | Michiel Rook | [Slides](2020-02-27/real_world_cd-michiel_rook.pdf) |
 | [Bringing Bright Ideas To Life](https://confoo.ca/en/yul2020/session/bringing-bright-ideas-to-life) | Wim Godden | [Slides](2020-02-27/Bringing-bright-ideas-to-life_Wim-Godden.pdf) |
+| [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf) |
+[Building Deep Neural Networks in .NET](https://confoo.ca/en/yul2020/session/building-deep-neural-networks-in-net) | Alexander Slotte | [Slides](2020-02-27/building_deep_neural_networks_in_dotnet-Alexander_Slotte.pdf) |
 
 # February 28
 
