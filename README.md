@@ -29,6 +29,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Understanding privacy by design](https://confoo.ca/en/yul2020/session/introducing-privacy-by-design) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/understanding-privacy-by-design-confoo-2020) |
 | [Coding Horrors - A Film Fan's Guide to PHP Coding Nightmares](https://confoo.ca/en/yul2020/session/coding-horrors-a-film-fan-s-guide-to-php-coding-nightmares) | [Mark Baker](https://twitter.com/Mark_Baker) | [Slides](https://www.slideshare.net/MarkBakerUK/coding-horrors-101930192)/[PDF](2020-02-26/CodingHorror.pdf) |
 | [Are your interns reviewing code?](https://confoo.ca/en/yul2020/session/are-your-interns-reviewing-code) | [Andrew Lavers](https://www.twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/are-your-interns-reviewing-code-andrew-lavers-confoo-montreal-2020) |
+| [Flexbox, fallait pas l'inviter !](https://confoo.ca/fr/yul2020/session/flexbox-fallait-pas-l-inviter) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-26/flexbox_fallait_pas_l-inviter-raphael_goetter.pdf) |
 
 # February 27
 
@@ -76,3 +77,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
 | [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
 | [Up and Running with Angular](https://confoo.ca/en/yul2020/session/up-and-running-with-angular) | [Justin James](https://letyournerdbeheard.com) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-27/Up%20and%20Running%20With%20Angular%20in%2045%20Minutes%20-%20ConFoo%20Montreal%202020.pdf) |
+| [50 nuances de grilles](https://confoo.ca/fr/yul2020/session/cinquante-nuances-de-grilles) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-28/50_nuances_de_grilles-raphael_goetter.pdf) |
