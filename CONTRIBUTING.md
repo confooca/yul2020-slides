@@ -6,7 +6,7 @@ We're really grateful for your presentation at ConFoo 2020. Please use this guid
 
 ## TL;DR
 
-1. Slides: `presentation_name-author-name.pdf`.
+1. Slides: `presentation_name-author_name.pdf`.
 
 2. Demos: `presentation_name-author_name.zip` or a GitHub/GitLab/BitBucket/etc link.
 
