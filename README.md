@@ -73,3 +73,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
 | [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
+| [I need to change this code, but it has no test!](https://confoo.ca/en/yul2020/session/i-need-to-change-this-code-but-it-has-no-test) | [Nicolas Carlo](https://twitter.com/nicoespeon | [Slides, tools & resources](https://understandlegacycode.com/approval-tests) |
