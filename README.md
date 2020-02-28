@@ -27,6 +27,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [From Zero to Hero with Spring Boot](https://confoo.ca/en/yul2020/session/from-zero-to-hero-with-spring-boot) | Stéphane Nicoll |  | [Code](https://github.com/snicoll/spring-boot-intro-conference)
 | [The Why and the How of Moving to PHP 7](https://confoo.ca/en/yul2020/session/the-why-and-the-how-of-moving-to-7-x) | Wim Godden | [Slides](2020-02-26/The-why-and-how-of-moving-to-PHP-7_Wim-Godden.pdf) |
 | [Understanding privacy by design](https://confoo.ca/en/yul2020/session/introducing-privacy-by-design) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/understanding-privacy-by-design-confoo-2020) |
+| [Are your interns reviewing code?](https://confoo.ca/en/yul2020/session/are-your-interns-reviewing-code) | [Andrew Lavers](https://www.twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/are-your-interns-reviewing-code-andrew-lavers-confoo-montreal-2020) |
 
 # February 27
 
