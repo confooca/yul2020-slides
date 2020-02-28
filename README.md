@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation | Speaker Name  | Content | Demo |
 |--------------|---------------|---------| ---- |
 | [Building an audio recognition API](https://confoo.ca/en/yul2020/session/building-an-audio-recognition-api) | Soheel Chughtai | [Slides](2020-02-26/building_an_audio_recognition_api-soheel_chughtai.pdf) |
+| [Safe Enough: Balancing Usability and Security](https://confoo.ca/en/yul2020/session/safe-enough-balancing-security-and-usability)| Natasha Eibich |[Slides](2020-02-26/safe_enough_balancing_usability_and_security-natasha_eibich.pdf) |
 | [Empowering teams using mission command](https://confoo.ca/en/yul2020/session/empowering-teams-using-mission-command) | Michiel Rook | [Slides](2020-02-26/empowering_teams_using_mission_command-michiel_rook.pdf) |
 | [Indexing and searching NuGet.org with Azure Functions](https://confoo.ca/en/yul2020/session/indexing-and-searching-nuget-org-with-azure-functions) | Maarten Balliauw | [Slides](2020-02-26/indexing_and_searching_nugetorg_with_azure_functions_and_search-maarten-balliauw.pdf) |
 | [MLOps - Bringing Ops to ML](https://confoo.ca/en/yul2020/session/mlops-bringing-the-ops-to-machine-learning) | Alexander Slotte | [Slides](2020-02-26/MLOps%20-%20Bringing%20Ops%20to%20ML.pdf) |
@@ -30,6 +31,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | [Rapid Prototyping of AI powered applications with Node-RED](https://confoo.ca/en/yul2020/session/rapid-prototyping-of-ai-powered-applications-with-node-red) | Soheel Chughtai | [Slides](2020-02-27/rapid-prototyping-of-ai-powered-applications-with-node-red_soheel_chughtai.pdf) |
+| [Sticky Fingers: 10 Design Recommendations for Updating Software Interfaces](https://confoo.ca/en/yul2020/session/sticky-fingers-10-design-principles-for-updating-software)| Natasha Eibich | [Slides](2020-02-26/sticky-fingers-10-design-principles-for-software-interface-updates_natasha-eibich.pdf) |
 | [Let's Talk HTTP in .NET Core](https://confoo.ca/en/yul2020/session/let-s-talk-http-in-net-core) | Steve Gordon | [Slides](2020-02-27/lets_talk_http_in_dotnetcore-steve-gordon.pdf) / [Resources](https://www.stevejgordon.co.uk/speaking/lets-talk-http-in-dotnet-core) |
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf) |
 | [Next generation dependency management with Gradle](https://confoo.ca/en/yul2020/session/next-generation-dependency-management-with-gradle) | [Louis Jacomet](https://jacomet.dev/) | [Slides](https://jacomet.dev/gradle-6-dm-confoo/#/) / [Demo](https://github.com/ljacomet/gradle-6-dm-confoo/tree/master/demos/dm-gradle-6) |
