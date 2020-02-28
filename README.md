@@ -73,3 +73,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
 | [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
+| [Votre Architecture au Régime](https://conferences.elapsetech.com/architecture-regime/) | [Ian Létourneau](https://www.linkedin.com/in/ian-letourneau/) | [Slides](2020-02-28/votre_architecture_au_regime-ian_letourneau.pdf) |
