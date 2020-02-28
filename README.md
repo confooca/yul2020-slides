@@ -72,3 +72,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Redis is not just a cache](https://confoo.ca/en/yul2020/session/redis-is-not-just-a-cache) | [Andrew Lavers](https://twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/redis-is-not-just-a-cache-andrew-lavers-confoo-montreal-2020) |
 | [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
+| [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
