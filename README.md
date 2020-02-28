@@ -51,6 +51,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [It's new, it's shiny, it's... email?](https://confoo.ca/en/yul2020/session/it-s-new-it-s-shiny-it-s-email) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/its-new-its-shiny-its-dot-dot-dot-email) |
 | [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad) |
 | [PHP on Lambda with Custom Runtimes](https://confoo.ca/en/yul2020/session/php-on-lambda-with-custom-runtimes) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/lambfoo20) [PDF](2020-02-27/lambda_on_php_with_custom_runtimes-ian_littman.pdf) [Code](https://github.com/iansltx/spongebot) |
+| [Passwords are so 1990!](https://confoo.ca/en/yul2020/session/passwords-are-so-1990) | [Sam Bellen](https://github.com/sambego) | [Slides](https://1990.sambego.tech) |
 
 # February 28
 
@@ -64,4 +65,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Turbocharged: Writing High-Performance C# and .NET Code](https://confoo.ca/en/yul2020/session/turbocharged-writing-high-performance-c-and-net-code) | Steve Gordon | [Slides](2020-02-28/turbocharged_writing_high_performance_csharp_and_dotnet-steve-gordon.pdf) / [Resources](http://bit.ly/highperfdotnet) |
 | [Load Testing Your App](https://confoo.ca/en/yul2020/session/load-testing-your-app) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/loadfoo20) [PDF](2020-02-28/load_testing_your_app-ian_littman.pdf) [Code](https://github.com/iansltx/challengr) |
 | [Mock API endpoints for fun and profit](https://confoo.ca/fr/yul2020/session/mock-api-endpoints-for-fun-and-profit) | [Ruy Adorno](https://twitter.com/ruyadorno) | [Slides](2020-02-28/mock-api-endpoints-for-fun-and-profit-ruyadorno.pdf) |
+| [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
+
