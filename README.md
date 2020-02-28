@@ -70,4 +70,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Redis is not just a cache](https://confoo.ca/en/yul2020/session/redis-is-not-just-a-cache) | [Andrew Lavers](https://twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/redis-is-not-just-a-cache-andrew-lavers-confoo-montreal-2020) |
 | [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
+| [5 Unicode vulnerabilities that could bite you](https://confoo.ca/en/yul2020/session/5-unicode-vulnerabilities-that-could-byte-you) | [Philippe Arteau](https://confoo.ca/en/speaker/philippe-arteau) | [Slides](https://gosecure.github.io/presentations/2020_02_28_confoo/unicode_vulnerabilities_that_could_bite_you.pdf) |
+
 
