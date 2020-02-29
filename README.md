@@ -23,12 +23,14 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [My Top 10 PHPUnit Tips & Tricks](https://confoo.ca/en/yul2020/session/my-top-10-phpunit-tips-tricks) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/my-top-10-phpunit-tips-and-tricks) [Code](https://github.com/jrfnl/top-10-phpunit-tips-tricks-demo) |
 | [Protecting yourself against attacks through the build](https://confoo.ca/en/yul2020/session/protecting-yourself-against-attacks-through-the-build) | [Louis Jacomet](https://jacomet.dev/) | [Slides](2020-02-26/protecting_your_organization_against_attacks_via_the_build-louis_jacomet.pdf)
 | [From Grief to Growth: The 7 Stages of Observability](https://confoo.ca/en/yul2020/session/from-grief-to-growth-the-7-stages-of-observability) | [Alex Gervais](https://twitter.com/alex_gervais) | [Slides](2020-02-26/from_grief_to_growth_the_7_stages_of_observability-alex_gervais.pdf) |
-| [JavaScript: from imperative to functional reactive](https://confoo.ca/en/yul2020/session/javascript-from-imperative-to-functional-reactive) | [Gleb Bahmutov](https://glebbahmutov.com/) | [Slides](https://slides.com/bahmutov/js-from-imperative-to-frp) | 
+| [JavaScript: from imperative to functional reactive](https://confoo.ca/en/yul2020/session/javascript-from-imperative-to-functional-reactive) | [Gleb Bahmutov](https://glebbahmutov.com/) | [Slides](https://slides.com/bahmutov/js-from-imperative-to-frp) |
 | [From Zero to Hero with Spring Boot](https://confoo.ca/en/yul2020/session/from-zero-to-hero-with-spring-boot) | Stéphane Nicoll | [Code](https://github.com/snicoll/spring-boot-intro-conference)
 | [The Why and the How of Moving to PHP 7](https://confoo.ca/en/yul2020/session/the-why-and-the-how-of-moving-to-7-x) | Wim Godden | [Slides](2020-02-26/The-why-and-how-of-moving-to-PHP-7_Wim-Godden.pdf) |
 | [Understanding privacy by design](https://confoo.ca/en/yul2020/session/introducing-privacy-by-design) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/understanding-privacy-by-design-confoo-2020) |
 | [Coding Horrors - A Film Fan's Guide to PHP Coding Nightmares](https://confoo.ca/en/yul2020/session/coding-horrors-a-film-fan-s-guide-to-php-coding-nightmares) | [Mark Baker](https://twitter.com/Mark_Baker) | [Slides](https://www.slideshare.net/MarkBakerUK/coding-horrors-101930192)/[PDF](2020-02-26/CodingHorror.pdf) |
 | [Are your interns reviewing code?](https://confoo.ca/en/yul2020/session/are-your-interns-reviewing-code) | [Andrew Lavers](https://www.twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/are-your-interns-reviewing-code-andrew-lavers-confoo-montreal-2020) |
+| [Fun & Games with ES Proxies](https://confoo.ca/en/yul2020/session/fun-games-with-es-proxies) | [Christophe Porteneuve](https://www.twitter.com/porteneuve) | [Slides](https://bit.ly/confoo-es-proxies) |
+| [Flexbox, fallait pas l'inviter !](https://confoo.ca/fr/yul2020/session/flexbox-fallait-pas-l-inviter) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-26/flexbox_fallait_pas_l-inviter-raphael_goetter.pdf) |
 
 # February 27
 
@@ -54,6 +56,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Microservice Patterns - Implemented by Eclipse MicroProfile](https://confoo.ca/en/yul2020/session/microservice-patterns-implemented-by-eclipse-microprofile) | [Ivar Grimstad](https://twitter.com/ivar_grimstad) | [Slides](2020-02-26/MicroservicePatterns_implemented_by_MicroProfile-Ivar_Grimstad.pdf) [Code](https://github.com/ivargrimstad) |
 | [PHP on Lambda with Custom Runtimes](https://confoo.ca/en/yul2020/session/php-on-lambda-with-custom-runtimes) | [Ian Littman](https://twitter.com/iansltx) | [Slides](https://ian.im/lambfoo20) [PDF](2020-02-27/lambda_on_php_with_custom_runtimes-ian_littman.pdf) [Code](https://github.com/iansltx/spongebot) |
 | [Passwords are so 1990!](https://confoo.ca/en/yul2020/session/passwords-are-so-1990) | [Sam Bellen](https://github.com/sambego) | [Slides](https://1990.sambego.tech) |
+| [Ultimate Presentation Formula for Nerds](https://confoo.ca/en/yul2020/session/ultimate-presentation-formula-for-nerds) | [Justin James](https://letyournerdbeheard.com) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-27/Ultimate%20Presentation%20Formula%20for%20Nerds%20-%20ConFoo%202020.pdf) |
 
 # February 28
 
@@ -71,8 +74,11 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Efficient Web Apps with Spring Boot 2](https://confoo.ca/en/yul2020/session/efficient-web-apps-with-spring-boot-2) | Stéphane Nicoll | [Code](https://github.com/snicoll/initializr-stats)
 | [Redis is not just a cache](https://confoo.ca/en/yul2020/session/redis-is-not-just-a-cache) | [Andrew Lavers](https://twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/redis-is-not-just-a-cache-andrew-lavers-confoo-montreal-2020) |
 | [No way, JOSE!](https://confoo.ca/en/yul2020/session/no-way-jose) | [Sam Bellen](https://github.com/sambego) | [Slides](https://jose.sambego.tech) |
+| [Async Python. Who's there? Knock knock.](https://confoo.ca/en/yul2020/session/async-python-who-s-there-knock-knock) | Marc-Antoine Aubé | [Slides](2020-02-27/async_python-marc-antoine-aube.pdf) / [Code](https://github.com/marcaube/confoo2020-asyncio) |
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
-| [5 Unicode vulnerabilities that could bite you](https://confoo.ca/en/yul2020/session/5-unicode-vulnerabilities-that-could-byte-you) | [Philippe Arteau](https://confoo.ca/en/speaker/philippe-arteau) | [Slides](https://gosecure.github.io/presentations/2020_02_28_confoo/unicode_vulnerabilities_that_could_bite_you.pdf) |
+| [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
+| [Up and Running with Angular](https://confoo.ca/en/yul2020/session/up-and-running-with-angular) | [Justin James](https://letyournerdbeheard.com) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-27/Up%20and%20Running%20With%20Angular%20in%2045%20Minutes%20-%20ConFoo%20Montreal%202020.pdf) |
+| [So, What’s New in ES2022?](https://confoo.ca/en/yul2020/session/so-what-s-new-in-es2-22) | [Christophe Porteneuve](https://www.twitter.com/porteneuve) | [Slides](https://bit.ly/confoo-es2022) |
+| [50 nuances de grilles](https://confoo.ca/fr/yul2020/session/cinquante-nuances-de-grilles) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-28/50_nuances_de_grilles-raphael_goetter.pdf) |
+| [5 Unicode vulnerabilities that could byͥte you](https://confoo.ca/en/yul2020/session/5-unicode-vulnerabilities-that-could-byte-you) | [Philippe Arteau](https://confoo.ca/en/speaker/philippe-arteau) | [Slides](https://gosecure.github.io/presentations/2020_02_28_confoo/unicode_vulnerabilities_that_could_bite_you.pdf) |
 
-
-=======
