@@ -31,6 +31,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Are your interns reviewing code?](https://confoo.ca/en/yul2020/session/are-your-interns-reviewing-code) | [Andrew Lavers](https://www.twitter.com/alavers) | [Slides](https://www.slideshare.net/AndrewLavers/are-your-interns-reviewing-code-andrew-lavers-confoo-montreal-2020) |
 | [Fun & Games with ES Proxies](https://confoo.ca/en/yul2020/session/fun-games-with-es-proxies) | [Christophe Porteneuve](https://www.twitter.com/porteneuve) | [Slides](https://bit.ly/confoo-es-proxies) |
 | [Flexbox, fallait pas l'inviter !](https://confoo.ca/fr/yul2020/session/flexbox-fallait-pas-l-inviter) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-26/flexbox_fallait_pas_l-inviter-raphael_goetter.pdf) |
+| [Smaller, Faster, Svelter](https://confoo.ca/en/yul2020/session/smaller-faster-svelter-a-tiny-cost-for-small-enhancements) | [Adam L Barrett](https://www.twitter.com/adamlbarrett) | [Slides](https://slides.com/bigab/smaller-faster-svelter) |
 
 # February 27
 
@@ -86,3 +87,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [So, What’s New in ES2022?](https://confoo.ca/en/yul2020/session/so-what-s-new-in-es2-22) | [Christophe Porteneuve](https://www.twitter.com/porteneuve) | [Slides](https://bit.ly/confoo-es2022) |
 | [50 nuances de grilles](https://confoo.ca/fr/yul2020/session/cinquante-nuances-de-grilles) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-28/50_nuances_de_grilles-raphael_goetter.pdf) |
 | [5 Unicode vulnerabilities that could byͥte you](https://confoo.ca/en/yul2020/session/5-unicode-vulnerabilities-that-could-byte-you) | [Philippe Arteau](https://confoo.ca/en/speaker/philippe-arteau) | [Slides](https://gosecure.github.io/presentations/2020_02_28_confoo/unicode_vulnerabilities_that_could_bite_you.pdf) |
+| [How to build Large Scale React Apps](https://confoo.ca/en/yul2020/session/how-to-build-large-scale-react-apps) | [Adam L Barrett](https://www.twitter.com/adamlbarrett) | [Slides](https://slides.com/bigab/how-to-build-large-scale-react-apps) |
+
