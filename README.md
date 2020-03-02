@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation | Speaker Name  | Content |
 |--------------|---------------|---------|
 | [Rock, Paper, Scissors, … Computer Vision!](https://confoo.ca/en/yul2020/session/rock-paper-scissors-computer-vision) | [David Delabassee](https://delabassee.com) | [Slides](2020-02-26/ComputerVision_RPS_Delabassee.pdf) |
+| [Create an object detection model for your application](https://confoo.ca/en/yul2020/session/create-an-object-detection-model-for-your-application) | Jacques-Sylvain Lecointre | [Slides](2020-02-26/create_object_detection_model_for_your_application-js_lecointre.pdf) |
 | [Building an audio recognition API](https://confoo.ca/en/yul2020/session/building-an-audio-recognition-api) | Soheel Chughtai | [Slides](2020-02-26/building_an_audio_recognition_api-soheel_chughtai.pdf) |
 | [Safe Enough: Balancing Usability and Security](https://confoo.ca/en/yul2020/session/safe-enough-balancing-security-and-usability)| Natasha Eibich |[Slides](2020-02-26/safe_enough_balancing_usability_and_security-natasha_eibich.pdf) |
 | [Empowering teams using mission command](https://confoo.ca/en/yul2020/session/empowering-teams-using-mission-command) | Michiel Rook | [Slides](2020-02-26/empowering_teams_using_mission_command-michiel_rook.pdf) |
