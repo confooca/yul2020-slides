@@ -33,6 +33,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Flexbox, fallait pas l'inviter !](https://confoo.ca/fr/yul2020/session/flexbox-fallait-pas-l-inviter) | [Raphaël Goetter](https://www.twitter.com/goetter) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-26/flexbox_fallait_pas_l-inviter-raphael_goetter.pdf) |
 | [IoT at Scale: a Bike Story](https://confoo.ca/en/yul2020/session/iot-at-scale-a-bike-story) | [Pierre-Luc Maheu](https://www.twitter.com/plmaheu) | [Slides](2020-02-26\iot_scale_bike-plmaheu.pdf) |
 | [Smaller, Faster, Svelter](https://confoo.ca/en/yul2020/session/smaller-faster-svelter-a-tiny-cost-for-small-enhancements) | [Adam L Barrett](https://www.twitter.com/adamlbarrett) | [Slides](https://slides.com/bigab/smaller-faster-svelter) |
+| [PHP Best Practices](https://confoo.ca/en/yul2020/session/php-best-practices) | [Anna Filina](https://www.twitter.com/afilina) | [Slides](https://speakerdeck.com/afilina/php-best-practices) / [PDF](2020-02-26/php_best_practices-anna_filina.pdf) |
 
 
 # February 27
