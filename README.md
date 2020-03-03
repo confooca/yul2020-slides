@@ -95,5 +95,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [5 Unicode vulnerabilities that could byͥte you](https://confoo.ca/en/yul2020/session/5-unicode-vulnerabilities-that-could-byte-you) | [Philippe Arteau](https://confoo.ca/en/speaker/philippe-arteau) | [Slides](https://gosecure.github.io/presentations/2020_02_28_confoo/unicode_vulnerabilities_that_could_bite_you.pdf) |
 | [CI/CD with Jenkins Pipelines](https://confoo.ca/en/yul2020/session/ci-cd-with-jenkins-pipelines) | [Pierre-Luc Maheu](https://www.twitter.com/plmaheu) | [Slides](2020-02-28\ci_cd_jenkins_pipeline-plmaheu.pdf) |
 | [How to build Large Scale React Apps](https://confoo.ca/en/yul2020/session/how-to-build-large-scale-react-apps) | [Adam L Barrett](https://www.twitter.com/adamlbarrett) | [Slides](https://slides.com/bigab/how-to-build-large-scale-react-apps) |
-
-
+| [Exploring the last year of Java](https://confoo.ca/en/yul2020/session/exploring-the-last-year-of-java) | [Miro Cupak](https://mirocupak.com/) | [Slides](2020-02-28/exploring_the_last_year_of_java-miro_cupak.pdf) / [Code](https://gist.github.com/mcupak/9a5cc7a98d13586f347b9b0190e6fed4) |
+| [Local variable type inference - Will it compile?](https://confoo.ca/en/yul2020/session/local-variable-type-inference-will-it-compile) | [Miro Cupak](https://mirocupak.com/) | [Slides](2020-02-28/local_variable_type_inference_will_it_compile-miro_cupak.pdf) / [Code](https://gist.github.com/mcupak/4219232a7855f7a6418e4772a191b849) |
