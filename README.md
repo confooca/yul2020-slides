@@ -34,6 +34,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [IoT at Scale: a Bike Story](https://confoo.ca/en/yul2020/session/iot-at-scale-a-bike-story) | [Pierre-Luc Maheu](https://www.twitter.com/plmaheu) | [Slides](2020-02-26\iot_scale_bike-plmaheu.pdf) |
 | [Smaller, Faster, Svelter](https://confoo.ca/en/yul2020/session/smaller-faster-svelter-a-tiny-cost-for-small-enhancements) | [Adam L Barrett](https://www.twitter.com/adamlbarrett) | [Slides](https://slides.com/bigab/smaller-faster-svelter) |
 | [PHP Best Practices](https://confoo.ca/en/yul2020/session/php-best-practices) | [Anna Filina](https://www.twitter.com/afilina) | [Slides](https://speakerdeck.com/afilina/php-best-practices) / [PDF](2020-02-26/php_best_practices-anna_filina.pdf) |
+| [Databases in the Microservices World](https://confoo.ca/en/yul2020/session/databases-in-the-micro-services-world) | [Rob Richardson](https://twitter.com/rob_rich) | [Slides](https://robrich.org/slides/databases-in-the-microservices-world)
 
 
 # February 27
@@ -63,6 +64,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [PHP en continu grâce à GitLab](https://confoo.ca/en/yul2020/session/php-en-continu-grace-a-gitlab) | [Sébastien Ballangé](https://twitter.com/sballange) | [Slides](https://bit.ly/confoo-gitlab-php) / [PDF](2020-02-27/php_en_continu_grace_a_gitlab-sebastien_ballange.pdf) |
 | [Passwords are so 1990!](https://confoo.ca/en/yul2020/session/passwords-are-so-1990) | [Sam Bellen](https://github.com/sambego) | [Slides](https://1990.sambego.tech) |
 | [Ultimate Presentation Formula for Nerds](https://confoo.ca/en/yul2020/session/ultimate-presentation-formula-for-nerds) | [Justin James](https://letyournerdbeheard.com) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-27/Ultimate%20Presentation%20Formula%20for%20Nerds%20-%20ConFoo%202020.pdf) |
+| [Your Technology Your Way: Full-stack Web and Service with .NET and Node](https://confoo.ca/en/yul2020/session/your-technology-your-way-full-stack-web-with-net-and-node) | [Rob Richardson](https://twitter.com/rob_rich) | [Slides](https://robrich.org/slides/your-technology-your-way/#/) / [Code](https://github.com/robrich/your-technology-your-way) |
 
 # February 28
 
@@ -98,3 +100,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Exploring the last year of Java](https://confoo.ca/en/yul2020/session/exploring-the-last-year-of-java) | [Miro Cupak](https://mirocupak.com/) | [Slides](2020-02-28/exploring_the_last_year_of_java-miro_cupak.pdf) / [Code](https://gist.github.com/mcupak/9a5cc7a98d13586f347b9b0190e6fed4) |
 | [Local variable type inference - Will it compile?](https://confoo.ca/en/yul2020/session/local-variable-type-inference-will-it-compile) | [Miro Cupak](https://mirocupak.com/) | [Slides](2020-02-28/local_variable_type_inference_will_it_compile-miro_cupak.pdf) / [Code](https://gist.github.com/mcupak/4219232a7855f7a6418e4772a191b849) |
 | [10X Développer sans compromis sur la qualité](https://confoo.ca/en/yul2020/session/aa-x-developper-sans-compromis-sur-la-qualite) | Jean-Michel Gingras | [Slides](2020-02-28/10X_Developper_sans_compromis_sur_la_qualite-Jean-Michel_Gingras.pdf) |
+| [ASP.NET Dos and Don'ts for highly maintainable code](https://confoo.ca/en/yul2020/session/asp-net-dos-and-don-ts-for-highly-maintainable-code-1) | [Rob Richardson](https://twitter.com/rob_rich) | [Code](https://github.com/robrich/aspnet-dos-and-donts-for-highly-maintainable-code) |
