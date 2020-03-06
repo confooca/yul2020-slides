@@ -35,6 +35,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Smaller, Faster, Svelter](https://confoo.ca/en/yul2020/session/smaller-faster-svelter-a-tiny-cost-for-small-enhancements) | [Adam L Barrett](https://www.twitter.com/adamlbarrett) | [Slides](https://slides.com/bigab/smaller-faster-svelter) |
 | [The Why and the How of Moving to PHP 7](https://confoo.ca/en/yul2020/session/the-why-and-the-how-of-moving-to-7-x) | Wim Godden | [Slides](2020-02-26/The-why-and-how-of-moving-to-PHP-7_Wim-Godden.pdf) |
 | [Understanding privacy by design](https://confoo.ca/en/yul2020/session/introducing-privacy-by-design) | [Marcus Bointon](https://www.twitter.com/SynchroM) | [Slides](https://speakerdeck.com/synchro/understanding-privacy-by-design-confoo-2020) |
+| [Improving Observability of Distributed Systems](https://confoo.ca/en/yul2020/session/improving-observability-of-distributed-systems) | [David Ostrovsky](https://twitter.com/DavidOstrovsky) | [Slides](https://github.com/Branor/slides/blob/master/Observability%20in%20Distributed%20Systems.pdf) |
 
 
 # February 27
