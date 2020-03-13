@@ -98,3 +98,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Votre Architecture au Régime](https://conferences.elapsetech.com/architecture-regime/) | [Ian Létourneau](https://www.linkedin.com/in/ian-letourneau/) | [Slides](2020-02-28/votre_architecture_au_regime-ian_letourneau.pdf) |
 | [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
 | [What is going on? Application diagnostics with Azure](https://confoo.ca/en/yul2020/session/what-is-going-on-application-diagnostics-with-azure) | Maarten Balliauw | [Slides](2020-02-28/what_is_going_on_application_diagnostics_on_azure-maarten-balliauw.pdf) |
+| [Continuous Security: Integrate security into DevOps](https://confoo.ca/en/yul2020/session/continuous-security-integrate-security-into-devops) | [Bill Dinger](https://twitter.com/adazlian) | [Slides](https://github.com/BillDinger/ContinuousSecurity/blob/master/Continuous%20Security_Integrate_Security_Tools_Into_Your_Devops_Pipeline.pdf) |
+
+
