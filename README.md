@@ -63,6 +63,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [What is accessibility and why should I care?](https://confoo.ca/en/yul2020/session/what-is-accessibility-why-does-it-matter) | Ashleigh Lodge | [Slides](2020-02-27/what_is_accessibility_and_why_does_it_matter-ashleigh-lodge.pdf) |
 | [Why and how to use generators for asynchronous programming](https://confoo.ca/fr/yul2020/session/why-and-how-to-use-generators-for-asynchronous-programming) | [Benoit Viguier](https://twitter.com/b_viguier) | [Slides](http://b-viguier.github.io/downloads/talks/ConFoo2020-AsyncGenerators.pdf) |
 | [Your Technology Your Way: Full-stack Web and Service with .NET and Node](https://confoo.ca/en/yul2020/session/your-technology-your-way-full-stack-web-with-net-and-node) | [Rob Richardson](https://twitter.com/rob_rich) | [Slides](https://robrich.org/slides/your-technology-your-way/#/) / [Code](https://github.com/robrich/your-technology-your-way) |
+| [Automating Hockey Team Management with Serverless](https://confoo.ca/en/yul2020/session/automating-hockey-team-management-with-serverless) | [Simon MacDonald](https://twitter.com/macdonst) | [Slides](https://slides.com/simonmacdonald/automating-hockey-team-management-with-serverless-e3748d) |
 
 # February 28
 
